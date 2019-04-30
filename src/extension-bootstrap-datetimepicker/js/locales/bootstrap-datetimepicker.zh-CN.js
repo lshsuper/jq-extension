@@ -12,6 +12,7 @@
         today: "今天",
         yestoday: '昨天',
         tomorrow: '明天',
+        clear: '清除',
         suffix: [],
         meridiem: ["上午", "下午"]
     };
